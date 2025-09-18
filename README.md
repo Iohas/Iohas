@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Iohannã Lins
 
-**`Engenheiro de Plataformas | DevOps | Observabilidade | Cloud`**
+**`Engenheiro de Plataformas | DevOps | Cloud | Observabilidade`**
 
 <p align="left">
     <a href="https://github.com/Iohas?tab=repositories&sort=stargazers">
@@ -57,7 +57,7 @@ Atualmente trabalho com **Automação, Azure e Observabilidade de ambientes comp
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Zabbix" width="40px" style="padding-right:10px;" src="https://www.zabbix.com/favicon/safari-pinned-tab.svg" />
+<img align="left" alt="Zabbix" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/zabbix/zabbix/master/frontends/php/images/general/zabbix_logo.svg" />
 <img align="left" alt="Datadog" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" />
 
 <br/><br/><br/>
@@ -82,6 +82,8 @@ Atualmente trabalho com **Automação, Azure e Observabilidade de ambientes comp
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iohas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br clear="left"/>
 
 ---
 

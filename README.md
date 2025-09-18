@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Iohannã Lins
 
-**`Engenheiro de Plataformas | DevOps | Cloud | Observabilidade`**
+**`Platform Engineering | DevOps | Cloud | Observability`**
 
 ---
 

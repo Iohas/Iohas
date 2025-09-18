@@ -2,22 +2,6 @@
 
 **`Engenheiro de Plataformas | DevOps | Cloud | Observabilidade`**
 
-<p align="left">
-  <a href="https://github.com/Iohas?tab=followers">
-    <img alt="Seguidores GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Iohas?color=236ad3&style=for-the-badge&logo=github&logoColor=white&label=Seguidores"/>
-  </a>
-  <a href="https://github.com/Iohas?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/Iohas?color=55960c&style=for-the-badge&logo=star&logoColor=white&label=Estrelas"/>
-  </a>
-  <a href="[https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/iohann%C3%A3-figueiredo-860144250/)">
-    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="iohasfigueira@gmail.com">
-    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
 ---
 
 ## 🚀 Sobre mim

@@ -22,8 +22,8 @@
 ---
 
 ## 🚀 Sobre mim
-Sou **Engenheiro de Plataformas** com foco em DevOps e Observabilidade, apaixonado por construir soluções que aumentem a confiabilidade, automação e visibilidade dos ambientes.
-Atualmente atuo com automação de processos, infraestrutura em Azure e observabilidade de ambientes complexos, sempre em busca de boas práticas, eficiência e evolução contínua.
+Sou **Engenheiro de Plataformas** com foco em **DevOps e Observabilidade**, apaixonado por construir soluções que tragam confiabilidade, automação e monitoramento eficiente.  
+Atualmente trabalho com **Automação, Azure e Observabilidade de ambientes complexos**, sempre buscando boas práticas e evolução contínua.  
 
 ---
 
@@ -57,9 +57,7 @@ Atualmente atuo com automação de processos, infraestrutura em Azure e observab
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Power BI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
-<img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="Zabbix" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg" />
+<img align="left" alt="Zabbix" width="40px" style="padding-right:10px;" src="https://www.zabbix.com/favicon/safari-pinned-tab.svg" />
 <img align="left" alt="Datadog" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" />
 
 <br/><br/><br/>

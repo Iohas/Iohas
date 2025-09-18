@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Iohannã Lins
 
-**`Engenheiro de Plataformas | DevOps | Observabilidade`**
+**`Engenheiro de Plataformas | DevOps | Observabilidade | Cloud`**
 
 <p align="left">
     <a href="https://github.com/Iohas?tab=repositories&sort=stargazers">
@@ -23,7 +23,7 @@
 
 ## 🚀 Sobre mim
 Sou **Engenheiro de Plataformas** com foco em **DevOps e Observabilidade**, apaixonado por construir soluções que tragam confiabilidade, automação e monitoramento eficiente.  
-Atualmente trabalho com **infraestrutura em nuvem, containers e monitoramento de ambientes complexos**, sempre buscando boas práticas e evolução contínua.  
+Atualmente trabalho com **Automação, Azure e Observabilidade de ambientes complexos**, sempre buscando boas práticas e evolução contínua.  
 
 ---
 
@@ -32,13 +32,14 @@ Atualmente trabalho com **infraestrutura em nuvem, containers e monitoramento de
 - **Sistemas Operacionais**: Linux e Windows  
 - **Contêineres**: Docker e Kubernetes  
 - **Nuvem**: Microsoft Azure  
-- **Scripting & Automação**: Python, Bash e PowerShell  
+- **Scripting & Automação**: Python, Bash, PowerShell, n8n, Power Automate  
 - **Controle de Versão**: Git e GitHub  
-- **Monitoramento e Logging**: Zabbix, Grafana, Logging Stack  
-- **APIs & Data Formats**: Netconf, Restconf, YANG Models, XML, JSON, YAML  
-- **Ferramentas de Acesso Remoto**: PuTTY, Remote Desktop  
+- **Monitoramento e Observabilidade**: Zabbix, Datadog, Site24x7, Grafana, ELK Stack
+- **APIs & Testes**: Netconf, Restconf, YANG Models, XML, JSON, YAML, Postman  
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Business Intelligence**: Power BI  
 - **Gestão de Projetos**: Confluence, Jira e Azure DevOps  
-- **Métodologias Ágeis**: Scrum e Kanban  
+- **Metodologias Ágeis**: Scrum e Kanban  
 
 ---
 

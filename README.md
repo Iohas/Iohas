@@ -10,22 +10,6 @@ Atualmente trabalho com **Automação, Azure e Observabilidade de ambientes comp
 
 ---
 
-## 🛠️ Competências Técnicas
-
-- **Sistemas Operacionais**: Linux e Windows  
-- **Contêineres**: Docker e Kubernetes  
-- **Nuvem**: Microsoft Azure  
-- **Scripting & Automação**: Python, Bash, PowerShell, n8n, Power Automate  
-- **Controle de Versão**: Git e GitHub  
-- **Monitoramento e Observabilidade**: Zabbix, Datadog, Site24x7, Grafana, ELK Stack
-- **APIs & Testes**: Netconf, Restconf, YANG Models, XML, JSON, YAML, Postman  
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Business Intelligence**: Power BI  
-- **Gestão de Projetos**: Confluence, Jira e Azure DevOps  
-- **Metodologias Ágeis**: Scrum e Kanban  
-
----
-
 ## 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -42,6 +26,22 @@ Atualmente trabalho com **Automação, Azure e Observabilidade de ambientes comp
 <img align="left" alt="n8n" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" />
 
 <br/><br/><br/>
+
+---
+
+## 🛠️ Competências Técnicas
+
+- **Sistemas Operacionais**: Linux e Windows  
+- **Contêineres**: Docker e Kubernetes  
+- **Nuvem**: Microsoft Azure  
+- **Scripting & Automação**: Python, Bash, PowerShell, n8n, Power Automate  
+- **Controle de Versão**: Git e GitHub  
+- **Monitoramento e Observabilidade**: Zabbix, Datadog, Site24x7, Grafana, ELK Stack
+- **APIs & Testes**: Netconf, Restconf, YANG Models, XML, JSON, YAML, Postman  
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Business Intelligence**: Power BI  
+- **Gestão de Projetos**: Confluence, Jira e Azure DevOps  
+- **Metodologias Ágeis**: Scrum e Kanban  
 
 ---
 

@@ -1,81 +1,97 @@
-# 👩🏻‍💻 Iohannã Lins
+# 👨🏻‍💻 Iohannã Lins
 
-**`Engenheiro de Plataformas`**
+**`Engenheiro de Plataformas | DevOps | Observabilidade`**
 
 <p align="left">
     <a href="https://github.com/Iohas?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Iohas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Iohas?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Iohas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
+Sou **Engenheiro de Plataformas** com foco em **DevOps e Observabilidade**, apaixonado por construir soluções que tragam confiabilidade, automação e monitoramento eficiente.  
+Atualmente trabalho com **infraestrutura em nuvem, containers e monitoramento de ambientes complexos**, sempre buscando boas práticas e evolução contínua.  
+
+---
+
+## 🛠️ Competências Técnicas
+
+- **Sistemas Operacionais**: Linux e Windows  
+- **Contêineres**: Docker e Kubernetes  
+- **Nuvem**: Microsoft Azure  
+- **Scripting & Automação**: Python, Bash e PowerShell  
+- **Controle de Versão**: Git e GitHub  
+- **Monitoramento e Logging**: Zabbix, Grafana, Logging Stack  
+- **APIs & Data Formats**: Netconf, Restconf, YANG Models, XML, JSON, YAML  
+- **Ferramentas de Acesso Remoto**: PuTTY, Remote Desktop  
+- **Gestão de Projetos**: Confluence, Jira e Azure DevOps  
+- **Métodologias Ágeis**: Scrum e Kanban  
+
+---
+
+## 🤝 Competências Comportamentais
+- Bom relacionamento interpessoal  
+- Proatividade, determinação e objetividade  
+- Capacidade de trabalhar sob pressão  
+- Facilidade em lidar com adversidades e conflitos  
+- Planejamento, priorização e criticidade  
+- Aprendizado rápido e constante  
+
+---
+
+## 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    align="left" alt="Python" width="40px" style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    align="left" alt="Bash" width="40px" style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
 />
 <img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    align="left" alt="PowerShell" width="40px" style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" 
 />
 <img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    align="left" alt="Docker" width="40px" style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
 />
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    align="left" alt="Kubernetes" width="40px" style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" 
 />
 <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    align="left" alt="Azure" width="40px" style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" alt="Linux" width="40px" style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" alt="Git" width="40px" style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
+<br/><br/><br/>
 
-### 📊 Estatísticas
+---
+
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -86,11 +102,16 @@
     src="https://github-readme-stats.vercel.app/api?username=Iohas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Top Langs" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iohas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)  
+📧 **Email:** seuemail@exemplo.com

@@ -2,22 +2,11 @@
 
 **`Engenheiro de Plataformas | DevOps | Cloud | Observabilidade`**
 
-<p align="left">
-    <a href="https://github.com/Iohas?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Iohas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/Iohas?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Iohas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+![GitHub Followers](https://img.shields.io/github/followers/Iohas?label=Seguidores&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Iohas?affiliations=OWNER&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Iohas&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/iohann%C3%A3-figueiredo-860144250/))  
+📧 **Email:** seuemail@exemplo.com
 
 ---
 
@@ -82,9 +71,3 @@ Atualmente trabalho com **Automação, Azure e Observabilidade de ambientes comp
 </p>
 
 <br clear="left"/>
-
----
-
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/iohann%C3%A3-figueiredo-860144250/))  
-📧 **Email:** iohasfigueira@gmail.com

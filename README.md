@@ -23,7 +23,6 @@ Atualmente trabalho com **Automação, Azure e Observabilidade de ambientes comp
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Datadog" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" />
-<img align="left" alt="n8n" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" />
 
 <br/><br/><br/>
 
